@@ -1,14 +1,14 @@
 Name,Brief Description,Key Features,Licensing Model,Pricing,Link
-Anara (Unriddle),AI research assistant platform for literature review and writing,"Referenced Q&A and summaries; visual graph of paper connections; all-in-one workspace",Proprietary (freemium),"Free plan; Pro ~€11/month; Team ~€17/seat/month",https://unriddle.ai
-Elicit,AI literature review assistant by Ought,"Semantic paper search; automated summarization; data extraction; research reports",Proprietary (free & paid),"Free basic use; Plus $12/month; Pro $49/month",https://elicit.org
-scite.ai,AI-powered citation analysis platform,"Smart Citations; AI assistant; browser integrations",Proprietary (free & paid),"Free basic features; premium plans available",https://scite.ai
-R Discovery,Personalized research discovery app,"Daily paper feed; AI chatbot; audio abstracts; 30+ language translations",Proprietary (freemium),"Free app; subscription plans available",https://discovery.researcher.life
-IRIS.ai,Research discovery tool with AI mapping,"Visual research maps; AI filtering; auto-summarization",Proprietary (subscription),"Free account; full access €75/month",https://iris.ai
-Paper Digest,AI-powered platform for research summaries,"AI summary generator; knowledge graph updates; cross-discipline coverage",Proprietary (freemium),"Limited free summaries; paid plans available",https://paperdigest.org
-ChemyLane,Specialized AI for chemistry R&D,"Chemical data aggregation; eco-toxicity scoring; visualization",Proprietary (SaaS),"Free tier; Essentials ~$31/month; Advanced custom",https://chemylane.ai
-Research Rabbit,Free literature mapping tool,"Interactive paper graphs; smart recommendations; collaboration features",Open Access (Free),"Completely free",https://www.researchrabbit.ai
-Semantic Scholar,ML-based academic search engine,"Semantic search; TLDR summaries; citation analysis",Non-profit (Free),"Free for all users",https://www.semanticscholar.org
-Consensus,AI-powered academic search engine,"Evidence-based Q&A; peer-reviewed sources",Proprietary (Beta),"Free (currently)",https://consensus.app
-ChatPaper,AI-driven paper explorer,"Daily paper updates; AI extraction; paper content chat",Proprietary (Free),"Free web tool",https://chatpaper.org
-SciSpace (Typeset),All-in-one AI research assistant,"Chat with PDF; literature review; AI writing support",Proprietary (freemium),"Free version; Premium ~$20/month",https://typeset.io
-Undermind,AI-powered research assistant,"Paper analysis; citation management; research summaries; collaboration tools",Proprietary (freemium),"Free tier; Pro plans available",https://undermind.ai 
+Anara (Unriddle),AI research assistant platform for literature review and writing,Referenced Q&A and summaries; visual graph of paper connections; all-in-one workspace,Proprietary (freemium),Free plan; Pro ~€11/month; Team ~€17/seat/month,https://unriddle.ai
+ChatPaper,AI-driven paper explorer,Daily paper updates; AI extraction; paper content chat,Proprietary (Free),Free web tool,https://chatpaper.org
+ChemyLane,Specialized AI for chemistry R&D,Chemical data aggregation; eco-toxicity scoring; visualization,Proprietary (SaaS),Free tier; Essentials ~$31/month; Advanced custom,https://chemylane.ai
+Consensus,AI-powered academic search engine,Evidence-based Q&A; peer-reviewed sources,Proprietary (Beta),Free (currently),https://consensus.app
+Elicit,AI literature review assistant by Ought,Semantic paper search; automated summarization; data extraction; research reports,Proprietary (free & paid),Free basic use; Plus $12/month; Pro $49/month,https://elicit.org
+IRIS.ai,Research discovery tool with AI mapping,Visual research maps; AI filtering; auto-summarization,Proprietary (subscription),Free account; full access €75/month,https://iris.ai
+Paper Digest,AI-powered platform for research summaries,AI summary generator; knowledge graph updates; cross-discipline coverage,Proprietary (freemium),Limited free summaries; paid plans available,https://paperdigest.org
+R Discovery,Personalized research discovery app,Daily paper feed; AI chatbot; audio abstracts; 30+ language translations,Proprietary (freemium),Free app; subscription plans available,https://discovery.researcher.life
+Research Rabbit,Free literature mapping tool,Interactive paper graphs; smart recommendations; collaboration features,Open Access (Free),Completely free,https://www.researchrabbit.ai
+SciSpace (Typeset),All-in-one AI research assistant,Chat with PDF; literature review; AI writing support,Proprietary (freemium),Free version; Premium ~$20/month,https://typeset.io
+Semantic Scholar,ML-based academic search engine,Semantic search; TLDR summaries; citation analysis,Non-profit (Free),Free for all users,https://www.semanticscholar.org
+Undermind,AI-powered research assistant,Paper analysis; citation management; research summaries; collaboration tools,Proprietary (freemium),Free tier; Pro plans available,https://undermind.ai 
+scite.ai,AI-powered citation analysis platform,Smart Citations; AI assistant; browser integrations,Proprietary (free & paid),Free basic features; premium plans available,https://scite.ai
